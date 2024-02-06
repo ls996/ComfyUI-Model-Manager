@@ -72,11 +72,6 @@
         "download": "https://huggingface.co/SG161222/Realistic_Vision_V5.1_noVAE/resolve/main/Realistic_Vision_V5.1.safetensors"
     },
     {
-        "type": "vae",
-        "name": "sd_vae.safetensors",
-        "download": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
-    },
-    {
         "type": "checkpoint",
         "name": "LOFI_V3.safetensors",
         "download": "https://huggingface.co/lenML/LOFI-v3/resolve/main/LOFI_V3.safetensors"
@@ -85,11 +80,6 @@
         "type": "checkpoint",
         "name": "NeverendingDream_noVae.safetensors",
         "download": "https://huggingface.co/Lykon/NeverEnding-Dream/resolve/main/NeverendingDream_noVae.safetensors"
-    },
-    {
-        "type": "vae",
-        "name": "sd_vae.safetensors",
-        "download": "https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     },
     {
         "type": "checkpoint",
@@ -115,10 +105,5 @@
         "type": "lora",
         "name": "huyefo-v1.0.safetensors",
         "download": "https://civitai.com/api/download/models/104426"
-    },
-    {
-        "type": "upscale_models",
-        "name": "RealESRGAN_x2plus.pth",
-        "download": "https://huggingface.co/Rainy-hh/Real-ESRGAN/resolve/main/RealESRGAN_x2plus.pth"
     }
 ]
