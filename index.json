@@ -63,8 +63,8 @@
     },
     {
         "type": "checkpoint",
-        "name": "Deliberate.safetensors",
-        "download": "https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate.safetensors"
+        "name": "animagine-xl-3.0.safetensors",
+        "download": "https://huggingface.co/cagliostrolab/animagine-xl-3.0/resolve/main/animagine-xl-3.0.safetensors"
     },
     {
         "type": "checkpoint",
